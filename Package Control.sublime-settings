@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Emmet",
+		"EncodingHelper",
 		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"SublimeServer"
